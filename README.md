@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mauro-c%C3%A9sar-3038b522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-![Mauro GitHub stats](https://github-readme-stats.vercel.app/api?username=maurocesarj&show_icons=true&theme=tokyonight)
+![Mauro GitHub stats](https://github-readme-stats.vercel.app/api?username=maurocesarj&show_icons=true&theme=dark)
 
 #### Tecnologias que estou estudando no momento 💻:
 <div style="display: inline_block"><br>
